@@ -64,4 +64,6 @@ def T3(x, n) :
             pass
            
     return k, ((1-x)**2)*n
+
+fdfd
     
